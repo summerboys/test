@@ -1,5 +1,7 @@
 rm -rf 
 rm 
 mkdir
-touch 
-
+touch
+cat
+c
+id
